@@ -13,6 +13,8 @@ Here’s a quick overview of what I do:
 
 🧠 **Mindset:** Always learning and applying new skills; trying out new languages, testing ideas, and solving errors along the way.
 
+🔥 **Interests:** Automotive and aviation enthusiast, passionate about the operations of systems and engines within both.
+
 
 ## 🎯 Current Goals
 
