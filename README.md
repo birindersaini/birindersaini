@@ -1,11 +1,11 @@
 ## 👋 About Me
 I’m a T-Level Software Engineering student with a passion for web development and digital design. I enjoy creating websites that are both functional and visually appealing. While I currently do front-end development, I’m also learning back-end development to become a well-rounded full-stack developer.
 
-Here’s a quick overview of what I do:
+Here’s a quick overview of me:
 
-💻 **Web Development:** Building websites that are responsive with Visual Studio Code and the following programming languages: HTML, CSS, and JavaScript.
+💻 **Web Developer:** Building websites that are responsive with Visual Studio Code and the following programming languages: HTML, CSS, and JavaScript.
 
-🎨 **Graphic Design:** Creating clean, user-friendly designs and visually engaging content.
+🎨 **Graphic Designer:** Creating clean, user-friendly and visually engaging designs.
 
 🛠️ **Currently Learning:** Back-end languages, including SQL and C#.
 
